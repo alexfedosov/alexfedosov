@@ -1,6 +1,6 @@
 ### Hello 👋
 
-📺 Working on TV of the Internet (it is cool, check it out -> [Neverthink](neverthink.tv))
+📺 Working on TV of the Internet (it is cool, check it out -> [Neverthink](https://neverthink.tv))
 
 ⚡  Russian ruolette for real men: ```bash$: [ $[ $RANDOM % 6] == 0 ] && rm -rf /* || echo *click*```
 
