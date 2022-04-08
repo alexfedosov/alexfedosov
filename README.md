@@ -1,8 +1,7 @@
-### Hello 👋
+❤️ 🇺🇦
 
-⚡  Russian ruolette for real men: ```bash$: [ $[ $RANDOM % 6] == 0 ] && rm -rf /* || echo *click*```
-
-📫 alexander.a.fedosov@gmail.com
+🌎 https://x-x.codes/
+📫 alex@x-x.codes
 
 <!--
 **alexfedosov/alexfedosov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
