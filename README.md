@@ -1,9 +1,4 @@
 ❤️ 🇺🇦
-
-🌎 https://x-x.codes/
-
-📫 alex@x-x.codes
-
 <!--
 **alexfedosov/alexfedosov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
